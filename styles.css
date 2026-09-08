@@ -26,3 +26,22 @@ footer {
   text-align: center;
   color: #4b5563;
 }
+
+code {
+  padding: 2px 6px;
+  font-family: "Courier New", monospace;
+  color: #1d4ed8;
+  background: #dbeafe;
+  border-radius: 4px;
+}
+
+@media (max-width: 600px) {
+  body {
+    padding: 20px 12px;
+  }
+
+  header,
+  section {
+    padding: 16px;
+  }
+}
