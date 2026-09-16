@@ -15,3 +15,7 @@ git add .
 git commit -m "Describe the change"
 git log --oneline
 ```
+
+## GitHub Practice
+
+This branch was created to practice pushing changes to GitHub and opening a pull request.
